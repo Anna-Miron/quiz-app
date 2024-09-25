@@ -58,3 +58,7 @@ button {
     color: rgb(12, 110, 12);
     font-weight: bold;
 }
+
+.explanation {
+    font-style: italic;
+}
