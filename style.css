@@ -78,4 +78,8 @@ button:hover {
         width: 100%;
         box-shadow: none;
     }
+
+    ul {
+        padding-left: 0;
+    }
 }
